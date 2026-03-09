@@ -1,0 +1,2 @@
+This project demonstrates Git version control.
+We will create commits, branches and merge them.
